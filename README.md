@@ -70,7 +70,7 @@
     <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMSqTHZkbQfrBtlsTLHqFbLXtvlTzmPwdMzRTsMsRMgfGhTzMwRRzGjTrjxvnBvQFXtZZld">andreina.pul@gmail.com</a>
 
     
-    <h2>Social media:</h2>
+    <h2><u>Social media:</u></h2>
     <!-- social media -->
     <div id="social-media">
         <ol reversed>
