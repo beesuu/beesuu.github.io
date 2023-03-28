@@ -126,17 +126,18 @@
         <source src="78 I Gotta Feeling-Black Eyer Peas.mp3" type="audio/mp3">
             
     </audio>
-    
- </body>
-<form>
-    <input type="text" placeholder="Name">
-    <input type="password" placeholder="password" required>
-    <input type="number" placeholder="phone number">
-    <input type="email" placeholder="email">
-    <input type="time">
-    <input type="button" value="boton">
-    <input type="submit" value="enviar">
-</form>
+    <form>
+        <input type="text" placeholder="Name">
+        <input type="password" placeholder="password" required>
+        <input type="number" placeholder="phone number">
+        <input type="email" placeholder="email">
+        <input type="time">
+        <input type="button" value="boton">
+        <input type="submit" value="enviar">
+    </form>
+    <footer>Contact us!</footer>
+</body>
 
-<footer>Contact us!</footer>
- </html>
+
+
+</html>
