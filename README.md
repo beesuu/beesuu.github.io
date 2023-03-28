@@ -127,11 +127,11 @@
             
     </audio>
     
-</body>
+ </body>
 <form>
     <input type="text" placeholder="Name">
     <input type="password" placeholder="password" required>
-    <input type="number"placeholder="phone number">
+    <input type="number" placeholder="phone number">
     <input type="email" placeholder="email">
     <input type="time">
     <input type="button" value="boton">
@@ -139,4 +139,4 @@
 </form>
 
 <footer>Contact us!</footer>
-</html>
+ </html>
